@@ -25,7 +25,6 @@ public class SortInformation {
 				}
 				row++;
 			}
-
 			// csv파일로 변환한 값들을 integer 형태로 변환
 			for (int selectRow = 1; selectRow < 39; selectRow++) {
 				for (int column = 2; column < 4; column++) {
