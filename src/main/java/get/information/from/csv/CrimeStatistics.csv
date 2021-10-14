@@ -41,7 +41,6 @@ public class CrimeStatistics {
 				sum = inndat[y][3] / inndat[y][2];
 				System.out.printf("%s %.2f%% \n", indat[y][1], sum * 100);
 			}
-
 			br.close();
 
 		} catch (FileNotFoundException e) {
