@@ -42,7 +42,6 @@ public class CrimeStatistics {
 				System.out.printf("%s %.2f%% \n", indat[y][1], sum * 100);
 			}
 			br.close();
-
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		} catch (IOException e) {
