@@ -25,10 +25,8 @@ public class csvReader {
 	                }
 	               System.out.println("");
 	               row++;
-	            }
-	            
-	            br.close();
-	 
+	            }           
+	            br.close();	 
 	        } 
 	        catch (FileNotFoundException e) {
 	            e.printStackTrace();
