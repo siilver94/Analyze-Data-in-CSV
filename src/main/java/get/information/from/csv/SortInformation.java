@@ -14,6 +14,7 @@ public class SortInformation {
 			int row = 0;
 			int col = 0;
 
+
 			while ((line = br.readLine()) != null) {
 				String[] token = line.split(",");
 				for (col = 0; col < 15; col++) {
