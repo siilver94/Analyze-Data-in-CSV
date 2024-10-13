@@ -1,6 +1,11 @@
 # 범죄 데이터 분석하기(Analyze Data in CSV)
 
+
+
 <br/>
+
+![image](https://github.com/user-attachments/assets/5af0060e-2040-4329-911b-0c7167c31175)
+
 
 ## 프로젝트 소개
 
